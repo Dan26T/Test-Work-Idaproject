@@ -1,0 +1,44 @@
+@import "./variables.scss";
+.btn{
+  border-radius: 10px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  letter-spacing: -0.02em;
+  padding: 12px 100px 12px 100px;
+  margin: 12px 24px 24px 24px;
+  border: none;
+}
+form {
+  width: 332px;
+  height: 440px;
+  background-color: #FFFEFB;
+  box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.04), 0px 6px 10px rgba(0, 0, 0, 0.02);
+  border-radius: 4px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+label {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  letter-spacing: -0.02em;
+  color: #49485E;
+  margin: 0px 24px 0px 24px;
+}
+
+input {
+  background: #FFFEFB;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  height: 36px;
+  width: 284px;
+  margin: 5px 24px 12px 24px;
+  border: none;
+}
